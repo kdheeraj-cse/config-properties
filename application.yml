@@ -1,4 +1,4 @@
-days: Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+days: Sunday,Saturday
 spring: 
  profiles: 
   active: test
